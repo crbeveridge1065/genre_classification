@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/a056658174fc4a9b91ccec91654673ff/artifacts
+end_time: 1686943270444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a056658174fc4a9b91ccec91654673ff
+run_name: gregarious-snipe-554
+run_uuid: a056658174fc4a9b91ccec91654673ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686943168782
+status: 3
+tags: []
+user_id: cbev3

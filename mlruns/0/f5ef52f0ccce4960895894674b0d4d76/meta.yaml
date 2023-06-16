@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/f5ef52f0ccce4960895894674b0d4d76/artifacts
+end_time: 1686944762038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5ef52f0ccce4960895894674b0d4d76
+run_name: kindly-newt-516
+run_uuid: f5ef52f0ccce4960895894674b0d4d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944739128
+status: 3
+tags: []
+user_id: cbev3

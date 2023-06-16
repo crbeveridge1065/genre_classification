@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-06-16T19:30:57.151458",
+    "startedAt": "2023-06-16T19:30:55.685454",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/cbev3/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/crbeveridge1065/genre_classification.git",
+        "commit": "fdee05ae47727287e532a3ddc40478d189f8dce5"
+    },
+    "email": "crbeveridge@waynecc.edu",
+    "root": "/home/cbev3/genre_classification",
+    "host": "DESKTOP-7JR3AK5",
+    "username": "cbev3",
+    "executable": "/home/cbev3/miniconda3/envs/mlflow-347c4ed6edee28d54a4f91bae91cb85d821d8769/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3696.018,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 15.700557708740234
+    },
+    "memory": {
+        "total": 3.7440834045410156
+    }
+}

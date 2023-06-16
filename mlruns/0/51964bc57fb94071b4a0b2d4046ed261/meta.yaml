@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/51964bc57fb94071b4a0b2d4046ed261/artifacts
+end_time: 1686944528011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51964bc57fb94071b4a0b2d4046ed261
+run_name: industrious-rat-578
+run_uuid: 51964bc57fb94071b4a0b2d4046ed261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944395532
+status: 3
+tags: []
+user_id: cbev3

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/ae7af27001894290a1cad9f26db19202/artifacts
+end_time: 1686944004043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7af27001894290a1cad9f26db19202
+run_name: nosy-skink-16
+run_uuid: ae7af27001894290a1cad9f26db19202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686943982074
+status: 3
+tags: []
+user_id: cbev3

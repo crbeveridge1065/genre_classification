@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/c53ad6b024a546a795c75b067e32a8b4/artifacts
+end_time: 1686945117013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c53ad6b024a546a795c75b067e32a8b4
+run_name: flawless-snake-394
+run_uuid: c53ad6b024a546a795c75b067e32a8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944990611
+status: 3
+tags: []
+user_id: cbev3

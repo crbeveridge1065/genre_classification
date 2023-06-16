@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/185967984029404ca0922c04e22e4438/artifacts
+end_time: 1686943893736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 185967984029404ca0922c04e22e4438
+run_name: suave-ox-444
+run_uuid: 185967984029404ca0922c04e22e4438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686943872423
+status: 4
+tags: []
+user_id: cbev3

@@ -1,0 +1,82 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.15",
+    "heartbeatAt": "2023-06-16T19:51:33.887106",
+    "startedAt": "2023-06-16T19:51:32.460897",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/crbeveridge1065/genre_classification.git",
+        "commit": "fdee05ae47727287e532a3ddc40478d189f8dce5"
+    },
+    "email": "crbeveridge@waynecc.edu",
+    "root": "/home/cbev3/genre_classification",
+    "host": "DESKTOP-7JR3AK5",
+    "username": "cbev3",
+    "executable": "/home/cbev3/miniconda3/envs/mlflow-2686f882a58031e9160e9e3feffb1653b6855b5d/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3696.018,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3696.018,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 16.925277709960938
+    },
+    "memory": {
+        "total": 3.7440834045410156
+    }
+}

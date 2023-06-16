@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/6a36e568147744c2ad0b8082c9ad5f2f/artifacts
+end_time: 1686945121656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6a36e568147744c2ad0b8082c9ad5f2f
+run_uuid: 6a36e568147744c2ad0b8082c9ad5f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944704075
+status: 3
+tags: []
+user_id: cbev3

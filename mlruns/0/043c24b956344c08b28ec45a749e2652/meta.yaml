@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/043c24b956344c08b28ec45a749e2652/artifacts
+end_time: 1686943356152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 043c24b956344c08b28ec45a749e2652
+run_name: gregarious-whale-123
+run_uuid: 043c24b956344c08b28ec45a749e2652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686943270608
+status: 4
+tags: []
+user_id: cbev3

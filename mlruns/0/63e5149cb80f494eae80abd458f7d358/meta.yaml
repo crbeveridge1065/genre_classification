@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/63e5149cb80f494eae80abd458f7d358/artifacts
+end_time: 1686944783928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e5149cb80f494eae80abd458f7d358
+run_name: glamorous-stork-656
+run_uuid: 63e5149cb80f494eae80abd458f7d358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944762054
+status: 3
+tags: []
+user_id: cbev3

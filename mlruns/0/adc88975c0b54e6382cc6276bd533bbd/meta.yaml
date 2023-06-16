@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/adc88975c0b54e6382cc6276bd533bbd/artifacts
+end_time: 1686944808026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adc88975c0b54e6382cc6276bd533bbd
+run_name: painted-turtle-785
+run_uuid: adc88975c0b54e6382cc6276bd533bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944783943
+status: 3
+tags: []
+user_id: cbev3

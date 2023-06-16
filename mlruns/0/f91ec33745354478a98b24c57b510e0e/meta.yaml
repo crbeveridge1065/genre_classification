@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/f91ec33745354478a98b24c57b510e0e/artifacts
+end_time: 1686944990508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91ec33745354478a98b24c57b510e0e
+run_name: whimsical-squid-15
+run_uuid: f91ec33745354478a98b24c57b510e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944808049
+status: 3
+tags: []
+user_id: cbev3

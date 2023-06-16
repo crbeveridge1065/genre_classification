@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/e4bd0551da954f99b59667a82835311f/artifacts
+end_time: 1686944739115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4bd0551da954f99b59667a82835311f
+run_name: kindly-penguin-912
+run_uuid: e4bd0551da954f99b59667a82835311f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686944712799
+status: 3
+tags: []
+user_id: cbev3

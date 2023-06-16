@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cbev3/genre_classification/mlruns/0/f830ad1f5e9c4900818e369410b8907f/artifacts
+end_time: 1686943872359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f830ad1f5e9c4900818e369410b8907f
+run_name: colorful-lynx-539
+run_uuid: f830ad1f5e9c4900818e369410b8907f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686943845730
+status: 3
+tags: []
+user_id: cbev3
